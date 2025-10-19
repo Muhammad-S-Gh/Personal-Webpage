@@ -10,7 +10,7 @@ let drone;
 let mixer;
 const loader = new GLTFLoader();
 loader.load(
-    '/drone.glb',
+    './drone.glb',
     function (gltf) {
         drone = gltf.scene;
         drone.position.y = 4;
