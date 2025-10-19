@@ -45,7 +45,7 @@ reRender3D();
 let arrPositionModel = [
     {
         id: 'banner',
-        position: { x: 1.8, y: -1, z: 0 },
+        position: { x: 3, y: -1, z: 0 },
         rotation: { x: 0, y: -1.5, z: 0 },
     },
     {
