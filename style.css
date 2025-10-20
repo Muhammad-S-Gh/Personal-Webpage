@@ -242,7 +242,7 @@ header .content-fit {
         max-width: auto;
         width: 60vw;
         right: 2%;
-        bottom: -20vh;
+        bottom: -24vh;
     }
 }
 @media screen and (max-width: 767px) {
@@ -275,6 +275,7 @@ header .content-fit {
 
     #banner .content-fit {
         padding-bottom: 8rem;
+        padding-top: 5rem;
     }
 
     .section .decorate {
@@ -299,7 +300,7 @@ header .content-fit {
     .arm {
         height: auto;
         max-width: auto;
-        width: 70vw;
+        width: 80vw;
     }
 
     #description .content-fit,
