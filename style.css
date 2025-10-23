@@ -240,7 +240,7 @@ header .content-fit {
     .arm {
         height: auto;
         max-width: auto;
-        width: 60vw;
+        width: 55vw;
         right: 2%;
         bottom: -24vh;
     }
@@ -250,6 +250,14 @@ header .content-fit {
     body {
         overflow-x: hidden;
         width: 100%;
+    }
+
+    .logo {
+        max-width: 20vw;
+    }
+
+    header .content-fit nav ul li {
+        max-width: 20vw;
     }
 
     .section {
