@@ -251,13 +251,8 @@ header .content-fit {
         overflow-x: hidden;
         width: 100%;
     }
-
     .logo {
-        max-width: 20vw;
-    }
-
-    header .content-fit nav ul li {
-        max-width: 20vw;
+        padding-right: 10vw;
     }
 
     .section {
